@@ -1,81 +1,81 @@
-keys;en;es
-OPENCOLLECTION;Open Collection;Abrir Colección
-DONE;Done!;¡Hecho!
-GAMEDB;Game Database;Base de datos de juegos
-UPDATEDB;Update;Actualizar
-SETTINGS;Settings;Ajustes
-CONFGMPDICONS;Gamepad Icons;Íconos del Gamepad
-CONFREMAP;Keys Binding;Remapeo Controles
-GMPDKEYBRD;Gamepad / Keyboard;Gamepad / Teclado
-FULLSCREEN;Fullscreen;Pantalla Completa
-VIDEO;Video;Video
-WELCOME_USER;Welcome %s!;¡Bienvenido %s!
-LOADINGCONTENT;Loading content...;Cargando contenido...
-PLEASE_WAIT;Please wait...;Por favor espere...
-SYS_NOT_CONF;Systems Not Configured;Sistemas no configurados
-EMPTYLIST;Empty list;Lista vacía
-EXIT;Exit;Salir
-SELECT;Select;Seleccionar
-ACCEPT;Accept;Aceptar
-CANCEL;Cancel;Cancelar
-CLOSE;Close;Cerrar
-PLAY;Play;Jugar
-BACK;Back;Retroceder
-CHANGESYS;Change System;Cambiar Sistema
-NAVIGATE;Navigate;Navegar
-ADDFAV;Add Favorite;Añadir Favorito
-NUM_GAMES;%d games;%d juegos
-FAVADDED;Favorite Added;Añadido a favoritos
-SETTINGS;Settings;Ajustes
-BACKHOME;Back to home;Regresar a inicio
-BACKLIST;Back to list;Regresar a la lista
-BTNMAPPINGHELP;Click on a button to reassign its action key;Haga click en un botón para reasignar los controles
-KEYBOARD;Keyboard;Teclado
-GAMEPAD;Gamepad;Control de juego
-LANG;Language;Idioma
-ENG;English;Inglés
-ES;Spanish;Español
-OPEN_DATA_F;Open Data Folder;Abrir carpeta de datos
-CUSTOM_MAPPING;Custom Gamepad Mapping;Mapeo Personalizado
-GET_GAME_COVERS;Get Game Art (libretro);Obtener arte de juegos (libretro)
-GET_GAME_COVERS2;Get Game Art (launchbox);Obtener arte de juegos (launchbox)
-APPLY;Apply;Aplicar
-RESET;Reset;Reiniciar
-NO_AVAILABLE;No available;No disponible
-BTNS_ICONS;Buttons Icons;Iconos de botones
-MOVE_U;Move Up;Mover Arriba
-MOVE_D;Move Down;Mover Abajo
-MOVE_L;Move Left;Mover Izquierda
-MOVE_R;Move Right;Mover Derecha
-FILE_OPENED;File opened;El archivo ha sido abierto
-SURE_EXIT;Are you sure to exit?;¿Está seguro de salir?
-CLOSE_LAUNCHER;Close;Cerrar
-GO_TO_LIST;Go to list;Ir a lista
-RANDOM_GAME;Random Game;Juego Aleat.
-SOUND;Sound;Volumen
-MUSIC;Music;Música
-EFFECTS;Effects;Efectos
-ROMS_LST_MODE;Roms in list mode;Roms en modo de lista
-ROMS_DINAMIC_LOAD;Load Images of Roms at start;Cargar imágenes de roms al inicio
-ACCEPT2;Secondary Action;Acción Secundaria
-FAV;+ Favorite;+ Favorito
-ADDED_FAV;added to favorites;agregado a favoritos
-ALREADY_ADDED_FAV;Already added to favorites;Ya ha sido agregado a favoritos
-FAVREMOVED;Removed from Favorites;Retirado de favoritos
-FAVREMOVE;Remove from Favorites;Quitar de favoritos
-BGDARKNESS;Background Darkness;Oscuridad de fondo
-BACKTOMENU;Back to Main Menu;Volver al menú principal
-PRESSCOMBOEXIT;Press <combo> action to return;Presiona <combo> para regresar
-CREDITS;Credits;Créditos
-INTERESTLNKS;Interest Links;Links de interés
-FAVORITES;Favorites;Favoritos
-CHANGEORDER;Change Order;Cambiar Orden
-BUYLAUNCHER;Buy Launcher;Comprar Launcher
-DONATE;Donate;Donar
-HELP;Help;Ayuda
-SAVE;Save;Guardar
-RESET;Reset;Reiniciar
-DELETE;Delete;Eliminar
-PREV;Previous;Anterior
-NEXT;Next;Siguiente
-BUYMSG;Thanks for use FunEmuStation Launcher.\n\nIf you don't want see this message consider buying this software on itch.io. If you can't pay it, you can compile from source code for free;Gracias por usar FunEmuStation Launcher.\n\nSi quieres evitar volver a ver este mensaje, considera comprar este programa en itch.io. Si no puedes pagarlo puedes compilar este launcher gratuitamente desde el código fuente.
+keys;en;es;it
+OPENCOLLECTION;Open Collection;Abrir Colección;Apri la Collezione
+DONE;Done!;¡Hecho!;Fatto!
+GAMEDB;Game Database;Base de datos de juegos;Archivio dei Giochi
+UPDATEDB;Update;Actualizar;Aggiorna lista
+SETTINGS;Settings;Ajustes;Impostazioni
+CONFGMPDICONS;Gamepad Icons;Íconos del Gamepad;Icone del Controller
+CONFREMAP;Keys Binding;Remapeo Controles;Reimposta Comandi
+GMPDKEYBRD;Gamepad / Keyboard;Gamepad / Teclado;Controller / Tastiera
+FULLSCREEN;Fullscreen;Pantalla Completa;Schermo Intero
+VIDEO;Video;Video;Video
+WELCOME_USER;Welcome %s!;¡Bienvenido %s!;Benvenuto %s!
+LOADINGCONTENT;Loading content...;Cargando contenido...;Caricando il contenuto ...
+PLEASE_WAIT;Please wait...;Por favor espere...;Attendere ...
+SYS_NOT_CONF;Systems Not Configured;Sistemas no configurados;Sistema non configurato
+EMPTYLIST;Empty list;Lista vacía;Lista vuota
+EXIT;Exit;Salir;Esci
+SELECT;Select;Seleccionar;Seleziona
+ACCEPT;Accept;Aceptar;Accetta
+CANCEL;Cancel;Cancelar;Cancella
+CLOSE;Close;Cerrar;Chiudi
+PLAY;Play;Jugar;Gioca
+BACK;Back;Retroceder;Indietro
+CHANGESYS;Change System;Cambiar Sistema;Cambia Sistema
+NAVIGATE;Navigate;Navegar;Naviga
+ADDFAV;Add Favorite;Añadir Favorito;Aggiungi alla Lista Preferiti
+NUM_GAMES;%d games;%d juegos;%d giochi
+FAVADDED;Favorite Added;Añadido a favoritos;Aggiunto ai Preferiti
+SETTINGS;Settings;Ajustes;Impostazioni
+BACKHOME;Back to home;Regresar a inicio;Torna alla Schermata Principale
+BACKLIST;Back to list;Regresar a la lista;Torna alla lista
+BTNMAPPINGHELP;Click on a button to reassign its action key;Haga click en un botón para reasignar los controles;Clicca su un pulsante per reimpostare il tasto azione
+KEYBOARD;Keyboard;Teclado;Tastiera
+GAMEPAD;Gamepad;Control de juego;Controller
+LANG;Language;Idioma;Lingua
+ENG;English;Inglés;Inglese
+ES;Spanish;Español;Spagnolo
+OPEN_DATA_F;Open Data Folder;Abrir carpeta de datos;Apri percorso dei dati
+CUSTOM_MAPPING;Custom Gamepad Mapping;Mapeo Personalizado;Comandi Personalizzati
+GET_GAME_COVERS;Get Game Art (libretro);Obtener arte de juegos (libretro);Importa la copertina del Gioco (libretro)
+GET_GAME_COVERS2;Get Game Art (launchbox);Obtener arte de juegos (launchbox);Importa la copertina del Gioco (launchbox)
+APPLY;Apply;Aplicar;Applica
+RESET;Reset;Reiniciar;Reimposta
+NO_AVAILABLE;No available;No disponible;Non disponibile
+BTNS_ICONS;Buttons Icons;Iconos de botones;Icone del Controller
+MOVE_U;Move Up;Mover Arriba;Su
+MOVE_D;Move Down;Mover Abajo;Giù
+MOVE_L;Move Left;Mover Izquierda;Verso Sinistra
+MOVE_R;Move Right;Mover Derecha;Verso Destra
+FILE_OPENED;File opened;El archivo ha sido abierto;Archivio aperto
+SURE_EXIT;Are you sure to exit?;¿Está seguro de salir?;Vuoi davvero uscire?
+CLOSE_LAUNCHER;Close;Cerrar;Chiudi
+GO_TO_LIST;Go to list;Ir a lista;Vai alla lista
+RANDOM_GAME;Random Game;Juego Aleat.;Gioco a Caso
+SOUND;Sound;Volumen;Volume
+MUSIC;Music;Música;Musica
+EFFECTS;Effects;Efectos;Effetti Sonori
+ROMS_LST_MODE;Roms in list mode;Roms en modo de lista;Modalità Lista per le ROMs
+ROMS_DINAMIC_LOAD;Load Images of Roms at start;Cargar imágenes de roms al inicio;Carica un Immagine ROM all'Avvio
+ACCEPT2;Secondary Action;Acción Secundaria;Azione Secondaria
+FAV;+ Favorite;+ Favorito;Preferito
+ADDED_FAV;added to favorites;agregado a favoritos;Aggiunto alla Lista  Preferiti
+ALREADY_ADDED_FAV;Already added to favorites;Ya ha sido agregado a favoritos;Già presente nella Lista Preferiti
+FAVREMOVED;Removed from Favorites;Retirado de favoritos;Rimosso dalla Lista Preferiti
+FAVREMOVE;Remove from Favorites;Quitar de favoritos;Rimuovi dalla Lista Preferiti
+BGDARKNESS;Background Darkness;Oscuridad de fondo;Luminosità dello Sfondo
+BACKTOMENU;Back to Main Menu;Volver al menú principal;Ritorna al Menù Principale
+PRESSCOMBOEXIT;Press <combo> action to return;Presiona <combo> para regresar;Premi <combo> per tornare indietro
+CREDITS;Credits;Créditos;Ringraziamenti
+INTERESTLNKS;Interest Links;Links de interés;Collegamenti
+FAVORITES;Favorites;Favoritos;Preferiti
+CHANGEORDER;Change Order;Cambiar Orden;Cambia Ordine
+BUYLAUNCHER;Buy Launcher;Comprar Launcher;Compra il Launcher
+DONATE;Donate;Donar;Donazioni
+HELP;Help;Ayuda;Guida
+SAVE;Save;Guardar;Salva
+RESET;Reset;Reiniciar;Reimposta
+DELETE;Delete;Eliminar;Cancella
+PREV;Previous;Anterior;Precedente
+NEXT;Next;Siguiente;Seguente
+BUYMSG;Thanks for use FunEmuStation Launcher.\n\nIf you don't want see this message consider buying this software on itch.io. If you can't pay it, you can compile from source code for free;Gracias por usar FunEmuStation Launcher.\n\nSi quieres evitar volver a ver este mensaje, considera comprar este programa en itch.io. Si no puedes pagarlo puedes compilar este launcher gratuitamente desde el código fuente.;Grazie per aver usato FunEmuStation Launcher. \n\nSe non vuoi più vedere questo avviso, considera l'idea di acquistare questo programma tramite itch.io. Se non sei in grado di pagare, puoi comunque compilarlo dal codice sorgente gratuitamente.
